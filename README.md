@@ -1,4 +1,4 @@
-最終更新日：2020/1/17 16:04
+最終更新日：2020/1/17 17:30
 
 # ロボカップジャパンオープン2020あいち ＠ホームリーグ情報発信サイト
 ロボカップジャパンオープン2020あいち ＠ホームリーグの情報発信用リポジトリです．
@@ -28,6 +28,7 @@
 | AHOP-04 | KameRider OPL TWO | Nankai University |
 | AHOP-05 | KameRider Pepper | Nankai University |
 | AHOP-06 | Hibikino-Musashi@Home OPL | 九州工業大学 |
+| AHOP-07 | Team SOBITS | 創価大学 |
 
 ### Education
 | チームコード | チーム名 | 所属 |
@@ -39,11 +40,14 @@
 | AHEDU-05 | KameRider EDU ONE | Nankai University |
 | AHEDU-06 | KameRider EDU TWO | Nankai University |
 | AHEDU-07 | ODENS | 大阪電気通信大学 |
+| AHEDU-08 | Team SOBITS | 創価大学 |
 
 ### Simulation
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
 | AHSIM-01 | Team NICT | NICT |
+| AHSIM-02 | Hibikino-Musashi@Home & UTAR | Kyushu Institute of Technology, Universiti Tunku Abdul Rahman |
+| AHSIM-03 | Team SOBITS | 創価大学 |
 
 
 ## リンク
