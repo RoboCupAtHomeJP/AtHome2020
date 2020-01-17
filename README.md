@@ -1,4 +1,4 @@
-最終更新日：2020/1/17 1:29
+最終更新日：2020/1/17 16:04
 
 # ロボカップジャパンオープン2020あいち ＠ホームリーグ情報発信サイト
 ロボカップジャパンオープン2020あいち ＠ホームリーグの情報発信用リポジトリです．
@@ -33,7 +33,7 @@
 | チームコード | チーム名 | 所属 |
 |:-|:-|:-|
 | AHEDU-01 | Ri-one | 立命館大学 情報理工学部プロジェクト団体 |
-| AHEDU-02 | ＜未定＞ | 玉川大学 |
+| AHEDU-02 | eR@sers education | 玉川大学 |
 | AHEDU-03 | SKUBA-Jr | Kasetsart University |
 | AHEDU-04 | Happy Robot | 金沢工業大学 |
 | AHEDU-05 | KameRider EDU ONE | Nankai University |
