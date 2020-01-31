@@ -1,4 +1,4 @@
-最終更新日：2020/1/30 14:06
+最終更新日：2020/1/31 14:54
 
 # ロボカップジャパンオープン2020あいち ＠ホームリーグ情報発信サイト
 ロボカップジャパンオープン2020あいち ＠ホームリーグの情報発信用リポジトリです．
@@ -49,6 +49,7 @@
 | AHSIM-01 | Team NICT | NICT |
 | AHSIM-02 | Hibikino-Musashi@Home & UTAR | Kyushu Institute of Technology, Universiti Tunku Abdul Rahman |
 | AHSIM-03 | Team SOBITS | 創価大学 |
+| AHSIM-04 | MindGr@spers | 大阪工業大学, 立命館大学 |
 
 
 ## リンク
