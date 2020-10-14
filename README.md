@@ -8,7 +8,7 @@
 - **日付：12/19(土) - 12/20(日)** ~~日付：12/12(土) - 12/13(日)~~
 - 参加登録方法：調整中
 - オンライン開催システム，ルール等：調整中
-- 現在の開催方針につきましては，(iHR研究会のWebサイトにアップロードされているPDF)[https://drive.google.com/file/d/13UWuIczHnoTZCJEmtBwmEhNA-fjLnsEL/view]をご確認ください．
+- 現在の開催方針につきましては，[iHR研究会のWebサイトにアップロードされているPDF](https://drive.google.com/file/d/13UWuIczHnoTZCJEmtBwmEhNA-fjLnsEL/view)をご確認ください．
 是非積極的なご参加，ご協力をお願いいたします．
 
 ## リンク
