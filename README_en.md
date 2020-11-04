@@ -12,7 +12,6 @@ RoboCup Japan Open 2020 @Home League will be held online!
 - **Registration:** Please fill out the [application form](https://forms.gle/TanniYUFrNaLV8Q46)<br> Please refer to the [official website of RoboCup Japanese National Committee](http://www.robocup.or.jp/japanopen2020b-en/news/Registration.html) for details
 - **Tasks and Rules:** Tentative information are available [here](https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README_en.md)
 - **Online hosting system:** TBA
-- Please refer to [document on the website of Intelligent Home Robotics Research Committee](https://drive.google.com/file/d/13UWuIczHnoTZCJEmtBwmEhNA-fjLnsEL/view) (in Japanese) for the current plan
 - We look forward to your active participation!
 
 ## Links
