@@ -7,6 +7,7 @@ English | [日本語](README.md)
 
 
 # Announcement
+<font color="red"><b>The registration deadline is extended to Friday, November 27!</b></font>
 RoboCup Japan Open 2020 @Home League will be held online!
 - **Date:** Dec. 19 (Sat) - Dec. 20 (Sun) ~~Dec. 12 (Sat) - Dec. 13 (Sun)~~
 - **Registration:** Please fill out the [application form](https://forms.gle/TanniYUFrNaLV8Q46)<br> Please refer to the [official website of RoboCup Japanese National Committee](http://www.robocup.or.jp/japanopen2020b-en/news/Registration.html) for details

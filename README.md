@@ -8,6 +8,7 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 
 
 # 告知
+<font color="red"><b>参加登録の締め切りを11月27日(金)まで延長いたします！</b></font>
 ロボカップジャパンオープン2020 ＠ホームリーグのオンライン開催が決定しました！
 - **日付：12/19(土) - 12/20(日)** ~~日付：12/12(土) - 12/13(日)~~
 - 参加登録方法：[参加申し込みフォーム](https://forms.gle/TanniYUFrNaLV8Q46)にて受け付けております．参加費等詳細は[公式ホームページ](http://www.robocup.or.jp/japanopen2020b/news/entry-182.html)をご確認ください．
