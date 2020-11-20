@@ -17,6 +17,48 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 - 現在の開催方針につきましては，[iHR研究会のWebサイトにアップロードされているPDF](https://drive.google.com/file/d/13UWuIczHnoTZCJEmtBwmEhNA-fjLnsEL/view)をご確認ください．
 是非積極的なご参加，ご協力をお願いいたします．
 
+# 暫定タイムテーブル
+タイムテーブルは今後変更になることがあります。<br>
+タイムテーブルに関するお問い合わせは[Issues](https://github.com/RoboCupAtHomeJP/AtHome2020/issues)までお願いいたします。
+<a href="timetable/TimeTable2020_v0.pdf"><img src="timetable/TimeTable2020_v0.png"></a>
+
+# 参加チーム
+## Open Platform League (OPL)
+| Team code | Team name | Affiliation |
+| -- | -- | -- |
+| AHOP-1   | SOBITS            | 創価大学    |
+| AHOP-2   | Hibikino-Musashi@Home OPL  | 九州工業大学  |
+| AHOP-3   | OIT-Challenger    | 大阪工業大学    |
+
+
+## Domestic Standard Platform League (DSPL)
+| チームコード 	| チーム名 | 所属 |
+| -- 		| -- | -- |
+| AHDSP-1	| Team Weblab	| 東京大学工学系研究科	|
+| AHDSP-2	| eR@sers DSPL	| 玉川大学	|
+| AHDSP-3	| Hibikino-Musashi@Home DSPL	| 九州工業大学	|
+| AHDSP-4	| OIT-Real		| 大阪工業大学	|
+<!-- | AHDSP-5	| 	| 	| -->
+
+## Education League (Edu)
+| チームコード | チーム名 | 所属 |
+| -- | -- | -- |
+| AHEDU-1	| Happy Robot	| 金沢工業大学	|
+| AHEDU-2	| SOBITS		| 創価大学	|
+| AHEDU-3	| eR@sers Education	| 玉川大学	|
+
+## Simulation DSPL (S-DSPL)
+| チームコード | チーム名 | 所属 |
+| -- | -- | -- |
+| AHSIM-1	| SOBITS	| 創価大学	|
+| AHSIM-2	| OIT-R		| 大阪工業大学	|
+| AHSIM-3	| Rits		| 立命館大学	|
+| AHSIM-4	| eR@sers simulation	| 玉川大学	|
+| AHSIM-5	| Hibikino-Musashi@Home Sim DSPL	| 九州工業大学	|
+| AHSIM-6	| TA		| Private	|
+| AHSIM-7	| PUTRABOT	| Universiti Putra Malaysia	|
+<!-- | 	| 	| 	| -->
+
 ## リンク
 - [ロボカップ日本委員会公式ページ](http://www.robocup.or.jp/japanopen2020b/)
 
