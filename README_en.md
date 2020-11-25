@@ -11,7 +11,7 @@ English | [日本語](README.md)
 RoboCup Japan Open 2020 @Home League will be held online!
 - **Date:** Dec. 19 (Sat) - Dec. 20 (Sun) ~~Dec. 12 (Sat) - Dec. 13 (Sun)~~
 - **Registration:** Please fill out the [application form](https://forms.gle/TanniYUFrNaLV8Q46)<br> Please refer to the [official website of RoboCup Japanese National Committee](http://www.robocup.or.jp/japanopen2020b-en/news/Registration.html) for details
-- **Tasks and Rules:** Tentative information are available [here](https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README_en.md)
+- **Tasks and Rules:** Please check the GitHub repository at https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README_en.md.
 - **Online hosting system:** TBA
 - We look forward to your active participation!
 
@@ -56,6 +56,7 @@ If you have any questions or comments, please contact us using [Issues](https://
 | AHSIM-5   | Hibikino-Musashi@Home Sim DSPL    | Kyushu Institute of Technology    |
 | AHSIM-6   | TA        | Private   |
 | AHSIM-7   | PUTRABOT  | Universiti Putra Malaysia |
+| AHSIM-8	| 海城中高物理部	| Kaijo Junior & Senior High School	|
 <!-- |  |   |   | -->
 
 ## Links

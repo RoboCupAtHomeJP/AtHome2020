@@ -12,7 +12,7 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 ロボカップジャパンオープン2020 ＠ホームリーグのオンライン開催が決定しました！
 - **日付：12/19(土) - 12/20(日)** ~~日付：12/12(土) - 12/13(日)~~
 - 参加登録方法：[参加申し込みフォーム](https://forms.gle/TanniYUFrNaLV8Q46)にて受け付けております．参加費等詳細は[公式ホームページ](http://www.robocup.or.jp/japanopen2020b/news/entry-182.html)をご確認ください．
-- 実施タスク，ルール：[こちら](https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README.md)にて暫定公開中
+- 実施タスク，ルール：https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README.md にて公開しています．
 - オンライン開催システム：調整中
 - 現在の開催方針につきましては，[iHR研究会のWebサイトにアップロードされているPDF](https://drive.google.com/file/d/13UWuIczHnoTZCJEmtBwmEhNA-fjLnsEL/view)をご確認ください．
 是非積極的なご参加，ご協力をお願いいたします．
@@ -57,6 +57,7 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 | AHSIM-5	| Hibikino-Musashi@Home Sim DSPL	| 九州工業大学	|
 | AHSIM-6	| TA		| Private	|
 | AHSIM-7	| PUTRABOT	| Universiti Putra Malaysia	|
+| AHSIM-8	| 海城中高物理部	| 海城中学高等学校	|
 <!-- | 	| 	| 	| -->
 
 ## リンク
