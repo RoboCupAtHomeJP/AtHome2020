@@ -20,7 +20,7 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 # 暫定タイムテーブル
 タイムテーブルは今後変更になることがあります。<br>
 タイムテーブルに関するお問い合わせは[Issues](https://github.com/RoboCupAtHomeJP/AtHome2020/issues)までお願いいたします。
-<a href="timetable/TimeTable2020_v0.pdf"><img src="timetable/TimeTable2020_v0.png"></a>
+<a href="timetable/TimeTable2020.pdf"><img src="timetable/TimeTable2020.png"></a>
 
 # 参加チーム
 ## Open Platform League (OPL)

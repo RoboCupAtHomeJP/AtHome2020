@@ -18,7 +18,7 @@ RoboCup Japan Open 2020 @Home League will be held online!
 # Tentative Timetable
 This is the tentative timetable and it will be changed.<br>
 If you have any questions or comments, please contact us using [Issues](https://github.com/RoboCupAtHomeJP/AtHome2020/issues).
-<a href="timetable/TimeTable2020_v0.pdf"><img src="timetable/TimeTable2020_v0.png"></a>
+<a href="timetable/TimeTable2020.pdf"><img src="timetable/TimeTable2020.png"></a>
 
 # Teams
 ## Open Platform League (OPL)
