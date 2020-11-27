@@ -58,6 +58,8 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 | AHSIM-6	| TA		| Private	|
 | AHSIM-7	| PUTRABOT	| Universiti Putra Malaysia	|
 | AHSIM-8	| 海城中高物理部	| 海城中学高等学校	|
+| AHSIM-9	| Dongyang Sim	| Prince of Songkla University	|
+| AHSIM-10	| b-it-bots	| Hochschule Bonn-Rhein-Sieg	|
 <!-- | 	| 	| 	| -->
 
 ## リンク

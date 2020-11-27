@@ -57,6 +57,8 @@ If you have any questions or comments, please contact us using [Issues](https://
 | AHSIM-6   | TA        | Private   |
 | AHSIM-7   | PUTRABOT  | Universiti Putra Malaysia |
 | AHSIM-8	| 海城中高物理部	| Kaijo Junior & Senior High School	|
+| AHSIM-9	| Dongyang Sim	| Prince of Songkla University	|
+| AHSIM-10	| b-it-bots	| Hochschule Bonn-Rhein-Sieg	|
 <!-- |  |   |   | -->
 
 ## Links
