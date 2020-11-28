@@ -10,7 +10,7 @@ English | [日本語](README.md)
 <font color="red"><b>The registration deadline is extended to Friday, November 27!</b></font>
 RoboCup Japan Open 2020 @Home League will be held online!
 - **Date:** Dec. 19 (Sat) - Dec. 20 (Sun) ~~Dec. 12 (Sat) - Dec. 13 (Sun)~~
-- **Registration:** Please fill out the [application form](https://forms.gle/TanniYUFrNaLV8Q46)<br> Please refer to the [official website of RoboCup Japanese National Committee](http://www.robocup.or.jp/japanopen2020b-en/news/Registration.html) for details
+- **Registration:** ~~Please fill out the [application form](https://forms.gle/TanniYUFrNaLV8Q46)~~ (The application form has been closed)<br> Please refer to the [official website of RoboCup Japanese National Committee](http://www.robocup.or.jp/japanopen2020b-en/news/Registration.html) for details
 - **Tasks and Rules:** Please check the GitHub repository at https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README_en.md.
 - **Online hosting system:** TBA
 - We look forward to your active participation!
@@ -63,3 +63,4 @@ If you have any questions or comments, please contact us using [Issues](https://
 
 ## Links
 - Official website of [RoboCup Japanese National Committee](http://www.robocup.or.jp/japanopen2020b-en/)
+- [Repository for rules](https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README_en.md)

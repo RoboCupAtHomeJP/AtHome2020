@@ -11,11 +11,11 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 <font color="red"><b>参加登録の締め切りを11月27日(金)まで延長いたします！</b></font>
 ロボカップジャパンオープン2020 ＠ホームリーグのオンライン開催が決定しました！
 - **日付：12/19(土) - 12/20(日)** ~~日付：12/12(土) - 12/13(日)~~
-- 参加登録方法：[参加申し込みフォーム](https://forms.gle/TanniYUFrNaLV8Q46)にて受け付けております．参加費等詳細は[公式ホームページ](http://www.robocup.or.jp/japanopen2020b/news/entry-182.html)をご確認ください．
-- 実施タスク，ルール：https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README.md にて公開しています．
+- 参加登録方法：~~[参加申し込みフォーム](https://forms.gle/TanniYUFrNaLV8Q46)にて受け付けております~~（受け付けは終了しました）．<br>参加費等詳細は[公式ホームページ](http://www.robocup.or.jp/japanopen2020b/news/entry-182.html)をご確認ください
+- 実施タスク，ルール：[ルール公開用リポジトリにて公開しています](https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README.md)
 - オンライン開催システム：調整中
-- 現在の開催方針につきましては，[iHR研究会のWebサイトにアップロードされているPDF](https://drive.google.com/file/d/13UWuIczHnoTZCJEmtBwmEhNA-fjLnsEL/view)をご確認ください．
-是非積極的なご参加，ご協力をお願いいたします．
+- 現在の開催方針につきましては，[iHR研究会のWebサイトにアップロードされているPDF](https://drive.google.com/file/d/13UWuIczHnoTZCJEmtBwmEhNA-fjLnsEL/view)をご確認ください
+<br>是非積極的なご参加，ご協力をお願いいたします
 
 # 暫定タイムテーブル
 タイムテーブルは今後変更になることがあります。<br>
@@ -64,4 +64,5 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 
 ## リンク
 - [ロボカップ日本委員会公式ページ](http://www.robocup.or.jp/japanopen2020b/)
+- [ルール公開用リポジトリ](https://github.com/RoboCupAtHomeJP/Rule2020)
 
