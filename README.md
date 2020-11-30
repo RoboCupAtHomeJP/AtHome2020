@@ -55,7 +55,7 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 | AHSIM-3	| Rits		| 立命館大学	|
 | AHSIM-4	| eR@sers simulation	| 玉川大学	|
 | AHSIM-5	| Hibikino-Musashi@Home Sim DSPL	| 九州工業大学	|
-| AHSIM-6	| TA		| Private	|
+| AHSIM-6	| *キャンセル*	| - |
 | AHSIM-7	| PUTRABOT	| Universiti Putra Malaysia	|
 | AHSIM-8	| 海城中高物理部	| 海城中学高等学校	|
 | AHSIM-9	| Dongyang Sim	| Prince of Songkla University	|

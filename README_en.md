@@ -54,7 +54,7 @@ If you have any questions or comments, please contact us using [Issues](https://
 | AHSIM-3   | Rits      | Ritsumeikan University |
 | AHSIM-4   | eR@sers simulation    | Tamagawa University  |
 | AHSIM-5   | Hibikino-Musashi@Home Sim DSPL    | Kyushu Institute of Technology    |
-| AHSIM-6   | TA        | Private   |
+| AHSIM-6   | *Canceled*        | *N/A*   |
 | AHSIM-7   | PUTRABOT  | Universiti Putra Malaysia |
 | AHSIM-8	| 海城中高物理部	| Kaijo Junior & Senior High School	|
 | AHSIM-9	| Dongyang Sim	| Prince of Songkla University	|
