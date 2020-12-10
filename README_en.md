@@ -1,7 +1,10 @@
 # Information about RoboCup Japan Open 2020 @Home League
 ロボカップジャパンオープン2020 ＠ホームリーグの情報発信用リポジトリです．
 
-This is a repository for the information about RoboCup Japan Open 2020 @Home league.
+This is a repository for the information about RoboCup Japan Open 2020 @Home league. This document will be updated frequently until the end of the competition.<br>
+The rules are discussed in the Slack workspace, "RoboCup@HomeJP". The team leader should join this workspace, and check info every day.<br>
+
+The information for OPL and DSPL will be announced only in Japanese.
 
 English | [日本語](README.md)
 
