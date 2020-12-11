@@ -8,18 +8,42 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 [English](README_en.md) | 日本語
 
 
-
-# 告知
+# お知らせ
 ロボカップジャパンオープン2020 ＠ホームリーグのオンラインで開催されます。
 - **日付：12/18(金) - 12/20(日)** ~~日付：12/12(土) - 12/13(日)~~
 - 実施タスク，ルール：[ルール公開用リポジトリにて公開しています](https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README.md)
 - オンライン開催システム：Zoom, YouTube Live
 
+## Finalの動画について【OPL, DSPL】
+(12月11日更新)<br>
+Final動画の提出方法を決定いたしました。提出期限は**12月19日 (Day1) 正午**です。<br>
+[詳細はこちらをご確認ください](documents/finalVideo.md)。
+
+## Unknown Ubjectsの発送について【OPL, DSPL】
+(12月11日更新)<br>
+Unknown Objects (UO)は「各リーグがUOを事前に用意して、他のチームに前もって発送する」という形式で準備します。届いたオブジェクトは**競技開始前に指示があるまで開封しない**でください。<br>
+[発送手順の詳細はこちらのPDFファイルをご確認ください](documents/RCJ2020_UnknownObjects_手順書_GitHub.pdf)。<br>
+オブジェクトの発送先リストと、DSPLのUOを記載するオブジェクトリストは、各チームの代表者にSlackのワークスペース「RoboCup@HomeJP」で共有しています。
+
+オブジェクトは**18日までに各チームの元に届くように準備**していただきますよう、よろしくお願いいたします。
+
+## Basic Functionalities (BF) のKnown Objects【OPL】
+(12月11日更新)<br>
+[Basic Functionalities (BF) で使用するKnown Objectsのリストを公開します](documents/OPL_Object_List_2020.pdf)。<br>
+このリストに載っているオブジェクトは各自で準備してください。<br>
+各Trialで使用するオブジェクトはTrial開始直前に口頭で指示されます。
+
+## BF、WhatDidYouSayのお題【OPL】
+(12月11日更新)<br>
+具体的な質問文をSlackにて各チームより募集しています。12月18日 (Setup day) 夕方頃、このリポジトリで10個の質問（日本語と英語）を公開いたします。BF競技中、ロボットに問いかける質問の言語は日本語・英語のどちらでも構いません。
+
+
+
 # タイムテーブル
-（12月11日追記）<br>
+（12月11日更新）<br>
 DSPLの参加チーム数が確定しましたので、タイムテーブルを更新しました。<br>
 Day2 Simulation Exhibitionの前後に入れ替えのための準備時間を設けました。<br>
-（追記ここまで）
+（更新ここまで）
 
 タイムテーブルに関するお問い合わせは[Issues](https://github.com/RoboCupAtHomeJP/AtHome2020/issues)までお願いいたします。
 <a href="timetable/TimeTable2020.pdf"><img src="timetable/TimeTable2020.jpg"></a>
