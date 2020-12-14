@@ -37,16 +37,38 @@ Unknown Objects (UO)は「各リーグがUOを事前に用意して、他のチ�
 (12月11日更新)<br>
 具体的な質問文をSlackにて各チームより募集しています。12月18日 (Setup day) 夕方頃、このリポジトリで10個の質問（日本語と英語）を公開いたします。BF競技中、ロボットに問いかける質問の言語は日本語・英語のどちらでも構いません。
 
+## Tidy Up 散らかしリスト【DSPL】
+事前勉強会で使用する散らかしリストは12月15日17時までに本リポジトリで公開されます。
 
+大会当日使用する散らかしリストは12月19日(Day1)正午までに本リポジトリで公開されます。
 
 # タイムテーブル
 （12月11日更新）<br>
 DSPLの参加チーム数が確定しましたので、タイムテーブルを更新しました。<br>
 Day2 Simulation Exhibitionの前後に入れ替えのための準備時間を設けました。<br>
-（更新ここまで）
+（12月14日更新）<br>
+Team Leaders Meetingの枠を追加しました。
 
 タイムテーブルに関するお問い合わせは[Issues](https://github.com/RoboCupAtHomeJP/AtHome2020/issues)までお願いいたします。
 <a href="timetable/TimeTable2020.pdf"><img src="timetable/TimeTable2020.jpg"></a>
+
+* Day 0とDay 1のTeam Leaders Meeting (TLM)はOPLとDSPLが合同で行います<br>
+タイムテーブルには開始時刻の目安を載せています。チーム代表者の皆様には開始前にSlackでご連絡いたします。
+
+## 両リーグ共通
+### Robot Inspection (RI)
+順番の指定はありません。準備ができたチームから順にTCに申告してください。
+
+
+## OPL
+### BF
+競技は以下の順番で実施します。<br>
+**(AHOP-1) SOBITS -> (AHOP-2) HMA OPL -> (AHOP3) OIT-Challenger**<br>
+Trialは3回実施しますが、いずれのtrialも同様の順番で実施いたします。<br>
+前のチームが終了したらすぐに競技を開始できるように、各チーム準備しておいてください。
+
+
+
 
 # 参加チーム
 ## Open Platform League (OPL)
