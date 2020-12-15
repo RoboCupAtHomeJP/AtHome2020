@@ -38,9 +38,11 @@ Unknown Objects (UO)は「各リーグがUOを事前に用意して、他のチ�
 具体的な質問文をSlackにて各チームより募集しています。12月18日 (Setup day) 夕方頃、このリポジトリで10個の質問（日本語と英語）を公開いたします。BF競技中、ロボットに問いかける質問の言語は日本語・英語のどちらでも構いません。
 
 ## Tidy Up 散らかしリスト【DSPL】
-事前勉強会で使用する散らかしリストを公開しました。Task2a用のものは12月15日17時までに本リポジトリで公開されます。
+(12月15日更新)<br>
+事前勉強会で使用する散らかしリストを公開しました。
 
 - [Task1](documents/DSPL_Place_List_1215_practice/TASK1.pdf)
+- [Task2a](documents/DSPL_Place_List_1215_practice/TASK2a.pdf)
 - [Task2b](documents/DSPL_Place_List_1215_practice/TASK2b.pdf)
 
 大会当日使用する散らかしリストは12月19日(Day1)正午までに本リポジトリで公開されます。
