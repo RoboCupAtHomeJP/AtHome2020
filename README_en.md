@@ -14,7 +14,8 @@ RoboCup Japan Open 2020 @Home League will be held online!
 - **Date:** Dec. 18 (Fri) - Dec. 20 (Sun) ~~Dec. 12 (Sat) - Dec. 13 (Sun)~~
 - **Tasks and Rules:** Please check the GitHub repository at https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README_en.md.
 - **Online hosting system:** Zoom, YouTube Live
-- We look forward to your active participation!
+
+<a href="http://www.robocup.or.jp/japanopen2020b-en/news/entry-202.html">Please check this page for the schedule of the YouTube Live </a>.
 
 # Tentative Timetable
 （Updated on 11th Dec）<br>

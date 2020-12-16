@@ -12,14 +12,17 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 ロボカップジャパンオープン2020 ＠ホームリーグのオンラインで開催されます。
 - **日付：12/18(金) - 12/20(日)** ~~日付：12/12(土) - 12/13(日)~~
 - 実施タスク，ルール：[ルール公開用リポジトリにて公開しています](https://github.com/RoboCupAtHomeJP/Rule2020/blob/master/README.md)
-- オンライン開催システム：Zoom, YouTube Live
+- オンライン開催システム：Zoom（競技参加者向け）, YouTube Live（一般向け）
 
-## Finalの動画について【OPL, DSPL】
+<a href="http://www.robocup.or.jp/japanopen2020b/leagues/entry-199.html">ライブ配信のプログラムはこちらをご覧ください</a>。
+
+## OPL, DSPL共通連絡
+### Finalの動画について【OPL, DSPL】
 (12月11日更新)<br>
 Final動画の提出方法を決定いたしました。提出期限は**12月19日 (Day1) 正午**です。<br>
 [詳細はこちらをご確認ください](documents/finalVideo.md)。
 
-## Unknown Ubjectsの発送について【OPL, DSPL】
+### Unknown Ubjectsの発送について【OPL, DSPL】
 (12月11日更新)<br>
 Unknown Objects (UO)は「各リーグがUOを事前に用意して、他のチームに前もって発送する」という形式で準備します。届いたオブジェクトは**競技開始前に指示があるまで開封しない**でください。<br>
 [発送手順の詳細はこちらのPDFファイルをご確認ください](documents/RCJ2020_UnknownObjects_手順書_GitHub.pdf)。<br>
@@ -27,25 +30,24 @@ Unknown Objects (UO)は「各リーグがUOを事前に用意して、他のチ�
 
 オブジェクトは**18日までに各チームの元に届くように準備**していただきますよう、よろしくお願いいたします。
 
-## Basic Functionalities (BF) のKnown Objects【OPL】
-(12月11日更新)<br>
-[Basic Functionalities (BF) で使用するKnown Objectsのリストを公開します](documents/OPL_Object_List_2020.pdf)。<br>
-このリストに載っているオブジェクトは各自で準備してください。<br>
-各Trialで使用するオブジェクトはTrial開始直前に口頭で指示されます。
+### Zoomの命名規則について
+競技当日Zoomに参加される方は、以下の規則に従ってZoomの表示名を変更してください。
+Zoomの接続情報はSlack、メールなどでお知らせいたします。
 
-## BF、WhatDidYouSayのお題【OPL】
-(12月11日更新)<br>
-具体的な質問文をSlackにて各チームより募集しています。12月18日 (Setup day) 夕方頃、このリポジトリで10個の質問（日本語と英語）を公開いたします。BF競技中、ロボットに問いかける質問の言語は日本語・英語のどちらでも構いません。
+* PCで参加される方
+    - `リーグ名`-`チーム名`-`PC`
+* スマートフォンで参加される方
+    - `リーグ名`-`チーム名`-`HP`
 
-## Tidy Up 散らかしリスト【DSPL】
-(12月15日更新)<br>
-事前勉強会で使用する散らかしリストを公開しました。
+例）
+OPL-HMA-PC
 
-- [Task1](documents/DSPL_Place_List_1215_practice/TASK1.pdf)
-- [Task2a](documents/DSPL_Place_List_1215_practice/TASK2a.pdf)
-- [Task2b](documents/DSPL_Place_List_1215_practice/TASK2b.pdf)
+## OPL参加者向けの連絡
+<a href="OPL.md">こちらのページをご覧ください</a>。
 
-大会当日使用する散らかしリストは12月19日(Day1)正午までに本リポジトリで公開されます。
+## DSPL参加者向けの連絡
+<a href="DSPL.md">こちらのページをご覧ください</a>。
+
 
 # タイムテーブル
 （12月11日更新）<br>
@@ -60,20 +62,8 @@ Team Leaders Meetingの枠を追加しました。
 * Day 0とDay 1のTeam Leaders Meeting (TLM)はOPLとDSPLが合同で行います<br>
 タイムテーブルには開始時刻の目安を載せています。チーム代表者の皆様には開始前にSlackでご連絡いたします。
 
-## 両リーグ共通
 ### Robot Inspection (RI)
 順番の指定はありません。準備ができたチームから順にTCに申告してください。
-
-
-## OPL
-### BF
-競技は以下の順番で実施します。<br>
-**(AHOP-1) SOBITS -> (AHOP-2) HMA OPL -> (AHOP3) OIT-Challenger**<br>
-Trialは3回実施しますが、いずれのtrialも同様の順番で実施いたします。<br>
-前のチームが終了したらすぐに競技を開始できるように、各チーム準備しておいてください。
-
-
-
 
 # 参加チーム
 ## Open Platform League (OPL)
