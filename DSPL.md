@@ -2,14 +2,10 @@
 
 ## 事前提示情報
 ### Tidy Up 散らかしリスト【DSPL】
-(12月15日更新)<br>
-事前勉強会で使用する散らかしリストを公開しました。
-
-- [Task1](documents/DSPL_Place_List_1215_practice/TASK1.pdf)
-- [Task2a](documents/DSPL_Place_List_1215_practice/TASK2a.pdf)
-- [Task2b](documents/DSPL_Place_List_1215_practice/TASK2b.pdf)
-
-大会当日使用する散らかしリストは12月19日(Day1)正午までに本リポジトリで公開されます。
+(12月19日更新)<br>
+Tidy Up のtrial 1で使用する散らかしリストを公開しました。
+公開された中でどのリストが使用されるのかは、抽選で決定されます。
+- [trial 1](documents/DSPL_Place_List)
 
 ## 競技進行について
 
