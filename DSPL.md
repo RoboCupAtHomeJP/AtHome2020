@@ -2,11 +2,12 @@
 
 ## 事前提示情報
 ### Tidy Up 散らかしリスト【DSPL】
-(12月19日更新)<br>
-Tidy Up のtrial 1, trial 2で使用する散らかしリストを公開しました。
+(12月20日更新)<br>
+Tidy Upで使用する散らかしリストを公開しました。
 公開された中でどのリストが使用されるのかは、抽選で決定されます。
-- [trial 1](documents/DSPL_Place_List)
+- [trial 1](documents/DSPL_Place_List_for_trial1)
 - [trial 2](documents/DSPL_Place_List_for_trial2)
+- [trial 3](documents/DSPL_Place_List_for_trial3)
 
 ## 競技進行について
 
