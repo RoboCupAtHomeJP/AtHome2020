@@ -24,6 +24,7 @@ The scores of the all tasks was now published.
 - [OPL Tasks](score/opl_score.pdf)
 - [DSPL Tasks](score/dspl_score.pdf)
 - [Fixed Scores of OPL and DSPL](score/opl_dspl_final_score.pdf)
+- [Simulation DSPL Score](https://robocup-sdspl-board.netlify.app/)
 
 # Tentative Timetable
 （Updated on 11th Dec）<br>
