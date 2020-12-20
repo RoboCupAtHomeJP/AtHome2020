@@ -19,12 +19,13 @@ RoboCup Japan Open 2020 @Home League will be held online!
 
 # Score
 (Update on 20th Dec)<br>
-The scores of the all tasks was now published.
+The scores of the all tasks was published.
 
 - [OPL Tasks](score/opl_score.pdf)
 - [DSPL Tasks](score/dspl_score.pdf)
 - [Fixed Scores of OPL and DSPL](score/opl_dspl_final_score.pdf)
-- [Simulation DSPL Score](https://robocup-sdspl-board.netlify.app/)
+- [Fixed Scores of Education](score/education_score.pdf)
+- [Fixed Scores of Simulation DSPL](https://robocup-sdspl-board.netlify.app/)
 
 # Tentative Timetable
 （Updated on 11th Dec）<br>

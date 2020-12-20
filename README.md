@@ -14,6 +14,7 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 - [OPL 各種タスクスコア](score/opl_score.pdf)
 - [DSPL 各種タスクスコア](score/dspl_score.pdf)
 - [OPL, DSPL 最終スコア](score/opl_dspl_final_score.pdf)
+- [Education 最終スコア](score/education_score.pdf)
 - [Simulation DSPL 最終スコア](https://robocup-sdspl-board.netlify.app/)
 
 # お知らせ
