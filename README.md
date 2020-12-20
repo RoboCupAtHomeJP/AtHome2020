@@ -17,6 +17,14 @@ This is a repository for the information about RoboCup Japan Open 2020 @Home lea
 <a href="http://www.robocup.or.jp/japanopen2020b/leagues/entry-199.html">ライブ配信のプログラムはこちらをご覧ください</a>。
 
 ## OPL, DSPL共通連絡
+### スコアの公開について
+(12月20日更新)<br>
+各種タスクの点数を公開しました．
+
+- [OPL 各種タスクスコア](score/opl_score.pdf)
+- [DSPL 各種タスクスコア](score/dspl_score.pdf)
+- [OPL, DSPL 最終スコア](score/opl_dspl_final_score.pdf)
+
 ### Finalの動画について【OPL, DSPL】
 (12月11日更新)<br>
 Final動画の提出方法を決定いたしました。提出期限は**12月19日 (Day1) 正午**です。<br>

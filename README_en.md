@@ -17,6 +17,14 @@ RoboCup Japan Open 2020 @Home League will be held online!
 
 <a href="http://www.robocup.or.jp/japanopen2020b-en/news/entry-202.html">Please check this page for the schedule of the YouTube Live </a>.
 
+# Score
+(Update on 20th Dec)<br>
+The scores of the all tasks was now published.
+
+- [OPL Tasks](score/opl_score.pdf)
+- [DSPL Tasks](score/dspl_score.pdf)
+- [Fixed Scores of OPL and DSPL](score/opl_dspl_final_score.pdf)
+
 # Tentative Timetable
 （Updated on 11th Dec）<br>
 The schedule has been updated because the number of teams of DSPL has been confirmed.<br>
