@@ -78,7 +78,7 @@ Team Leaders Meetingの枠を追加しました。
 | Team code | Team name | Affiliation |
 | -- | -- | -- |
 | AHOP-1   | SOBITS            | 創価大学    |
-| AHOP-2   | Hibikino-Musashi@Home OPL  | 九州工業大学  |
+| AHOP-2   | Hibikino-Musashi@Home OPL  | 九州工業大学・北九州市立大学  |
 | AHOP-3   | OIT-Challenger    | 大阪工業大学    |
 
 
@@ -87,7 +87,7 @@ Team Leaders Meetingの枠を追加しました。
 | -- 		| -- | -- |
 | AHDSP-1	| Team Weblab	| 東京大学工学系研究科	|
 | AHDSP-2	| eR@sers DSPL	| 玉川大学	|
-| AHDSP-3	| Hibikino-Musashi@Home DSPL	| 九州工業大学	|
+| AHDSP-3	| Hibikino-Musashi@Home DSPL	| 九州工業大学・北九州市立大学	|
 | AHDSP-4	| OIT-Real		| 大阪工業大学	|
 <!-- | AHDSP-5	| 	| 	| -->
 
